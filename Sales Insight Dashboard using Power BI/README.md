@@ -1,11 +1,6 @@
 # Sales Insight Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
-This project I learn from code basics youtube channel. you can find link is below.
-
-
-[code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-
 
 ## Problem statement
 
@@ -29,21 +24,8 @@ and success criteria  of our project.
 
 <img src ="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">
 
-## Steps Followed in this project
 
-1. Learned about AIMS grid for project planning.
-2. Used MySQL for retrieving the data from the database into Power BI.
-3. Data Cleaning in power query.
-4. Performed ETL process (Extract Transform and Load)
-5. Created measure for needs and used them for creating visuals in PowerBi.
-6. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7. Data Validation
-8. Data Modelling and Visualization.
 
-## Major Changes/ Customizations Made
-
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
 ###  Insights
   
@@ -57,14 +39,6 @@ and success criteria  of our project.
 7. In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
 7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in              April 2020.
   
-### Key Learnings
-
-1. Learned about what real business data sets look like.
-2. Learned about how to write some major analysis queries in MySQL.
-3. how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-4. Learned about some major practical DAX functions and measures.
-5. Learned about some major analytical visuals and reports.
-
 
 ## Final result 
 
