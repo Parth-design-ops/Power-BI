@@ -13,13 +13,11 @@ Humans are not comfortable in consuming numbers from excel files, which is obvio
 
 ## Solution
 
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into 
-visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
 ### AIMS Grid
 
 ----
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
+By using the AIMS grid project management tool, we made sure what the purpose, stakeholder, end result 
 and success criteria  of our project.
 
 <img src ="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">
@@ -35,10 +33,6 @@ and success criteria  of our project.
 7. Data Validation
 8. Data Modelling and Visualization.
 
-## Major Changes/ Customizations Made
-
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
 ###  Insights
   
@@ -52,13 +46,6 @@ and success criteria  of our project.
 7. In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
 7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in              April 2020.
   
-### Key Learnings
-
-1. Learned about what real business data sets look like.
-2. Learned about how to write some major analysis queries in MySQL.
-3. how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-4. Learned about some major practical DAX functions and measures.
-5. Learned about some major analytical visuals and reports.
 
 
 ## Final result 
