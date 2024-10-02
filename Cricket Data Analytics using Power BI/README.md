@@ -33,27 +33,9 @@ The data is collected using BeautifulSoup (bs4) to scrape data from [ESPNCricinf
 
 By following this data collection, preprocessing, and modeling pipeline, the Women's Premier League Dream 11 Predictor project ensures that the collected data is transformed into a suitable format for analysis and prediction. This empowers users to make informed decisions while selecting their dream teams for the WPL.
 
-## Download Dataset
-[Womens Premier League 2023 (WPL) Dataset by Adnan Sattikar](https://www.kaggle.com/datasets/adnansattikar/womenspremierleague2023)
 
-## Technologies Used
 
-- Python 3
-- BeautifulSoup (bs4)
-- Pandas
-- NumPy
-- Data Modeling 
-- Power Query
-- DAX
-- Power BI
 
-## Methodology
-
-- Data collection and cleaning
-- Exploratory data analysis
-- Feature engineering
-- Model selection and training
-- Model evaluation and validation
 
 ## Dashboard
 
@@ -71,10 +53,3 @@ The final outcome of this project is the formation of a combined team of 11 play
 
 ### By focusing specifically on the Womens Premier League (WPL), my project aims to contribute to the growth and development of women's cricket. The insights derived from this project can help teams, cricket boards, and stakeholders in the women's cricket ecosystem to harness the power of data and drive positive changes in the sport.
 
-## Contributors
-
-- [Adnan Sattikar](https://github.com/AdSattikar)
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/AdSattikar/WPL-Dream-Team-Prediction/blob/master/LICENSE). 
